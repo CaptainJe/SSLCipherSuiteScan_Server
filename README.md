@@ -1,5 +1,5 @@
 # SSLCipherSuiteScan_Server
-This script can scan the SSL cipher suite that a server supports    
+This script can scan the SSL cipher suites that a server supports    
 ## How to use
 * Currently only Linux platform supportted.
 * Python2.7 and Openssl need to be installed first.
